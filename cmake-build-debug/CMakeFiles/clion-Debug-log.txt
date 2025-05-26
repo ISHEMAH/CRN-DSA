@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "Unix Makefiles" -S /Users/hugues/Documents/NE/CRN-DSA -B /Users/hugues/Documents/NE/CRN-DSA/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/hugues/Documents/NE/CRN-DSA/cmake-build-debug

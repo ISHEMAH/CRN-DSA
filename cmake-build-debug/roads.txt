@@ -1,0 +1,10 @@
+Nbr	Road	Budget
+1	Kigali-Muhanga	28.6
+2	Kigali-Musanze	28.6
+3	Kigali-Nyagatare	70.84
+4	Huye-Muhanga	56.7
+5	Musanze-Rubavu	33.7
+6	Huye-Rusizi	80.96
+7	Muhanga-Rusizi	117.5
+8	Musanze-Nyagatare	96.14
+9	Muhanga-Musanze	66.3
